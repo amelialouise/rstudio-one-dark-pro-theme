@@ -1581,7 +1581,7 @@ span .GFUP41PBN-B.ace_constant.ace_language {
 // --------------------------------------------- */
 
 .ace_foreign_line.background_highlight {
-    background-color: #282C34 !important;
+    background-color: #2C1328 !important;
 }
 
 .ace_codebegin, .ace_codeend {
