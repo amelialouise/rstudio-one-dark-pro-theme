@@ -735,12 +735,13 @@ div .gwt-Label.GD15MCFCF3 {
 /* Pane Layout tab backgrounds in Gloab Options */
 .GFUP41PBHRB td.GFUP41PBHRB,
 .GGBOEFPDNNB td.GGBOEFPDNNB,
-.GCHYANPCKRB td.GCHYANPCKRB {
+.GCHYANPCKRB td.GCHYANPCKRB,
+.GGBOEFPDDAC.GGBOEFPDFAC td.GGBOEFPDDAC.GBOEFPDFAC {
   background-color: unset;
 }
 
 
-.GD15MCFCAK {
+.GGBOEFPDNNB {
   color: white !important
 }
 
