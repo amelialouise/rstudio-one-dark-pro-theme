@@ -736,13 +736,13 @@ div .gwt-Label.GD15MCFCF3 {
 .GFUP41PBHRB td.GFUP41PBHRB,
 .GGBOEFPDNNB td.GGBOEFPDNNB,
 .GCHYANPCKRB td.GCHYANPCKRB,
-.GGBOEFPDEAC td.GGBOEFPDEAC {
+.GGBOEFPDCAC td.GGBOEFPDCAC {
   background-color: unset;
 }
 
 
 .GGBOEFPDNNB {
-  color: white !important
+  color: blue !important
 }
 
 .dialogContent {
