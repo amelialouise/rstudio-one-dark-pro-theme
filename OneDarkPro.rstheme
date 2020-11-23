@@ -170,9 +170,12 @@ th.GD15MCFCK4B {
 }
 
 /*update packages blank area*/
-.GD15MCFCC4B, .GD15MCFCEOB {
+.GD15MCFCC4B, .GD15MCFCEOB, 
+.GGBOEFPDCAC, td.GGBOEFPDCAC, 
+.GGBOEFPDEAC, td.GGBOEFPDEAC {
     background: var(--border-color);
     border: none;
+    background-color: blue
 }
 
 /*About R page text*/
@@ -735,8 +738,7 @@ div .gwt-Label.GD15MCFCF3 {
 /* Pane Layout tab backgrounds in Gloab Options */
 .GFUP41PBHRB td.GFUP41PBHRB,
 .GGBOEFPDNNB td.GGBOEFPDNNB,
-.GCHYANPCKRB td.GCHYANPCKRB,
-.GGBOEFPDCAC td.GGBOEFPDCAC {
+.GCHYANPCKRB td.GCHYANPCKRB {
   background-color: unset;
 }
 
