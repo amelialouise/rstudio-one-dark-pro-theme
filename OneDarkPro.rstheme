@@ -172,7 +172,8 @@ th.GD15MCFCK4B {
 /*update packages blank area*/
 .GD15MCFCC4B, .GD15MCFCEOB, 
 .GGBOEFPDCAC, td.GGBOEFPDCAC,
-.GGBOEFPDEAC, td.GGBOEFPDEAC {
+.GGBOEFPDEAC, td.GGBOEFPDEAC,
+.GGBOEFPDEBC, td.GGBOEFPDEBC {
     background: var(--border-color);
     border: none;
     background-color: rgb(37,39,40)
