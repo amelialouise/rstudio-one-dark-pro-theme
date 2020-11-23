@@ -171,11 +171,11 @@ th.GD15MCFCK4B {
 
 /*update packages blank area*/
 .GD15MCFCC4B, .GD15MCFCEOB, 
-.GGBOEFPDCAC, td.GGBOEFPDCAC, 
+.GGBOEFPDCAC, td.GGBOEFPDCAC,
 .GGBOEFPDEAC, td.GGBOEFPDEAC {
     background: var(--border-color);
     border: none;
-    background-color: blue
+    background-color: rgb(37,39,40)
 }
 
 /*About R page text*/
